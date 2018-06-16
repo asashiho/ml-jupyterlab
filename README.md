@@ -32,7 +32,7 @@ Windows:
 ### 2.2 run a new Docker container
 Linux/MacOS:
 
-    $ docker run -p 8888:8888 -v /data:/notebooks -it--rm asashiho/ml-jupyterlab
+    $ docker run -p 8888:8888 -v /data:/notebooks -it --rm asashiho/ml-jupyterlab
 
 Windows:
 
